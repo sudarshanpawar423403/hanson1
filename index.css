@@ -1,0 +1,27 @@
+#common {
+    color: brown;
+}
+
+.seperate{
+    letter-spacing: 5px;
+}
+
+#monu  {
+    text-decoration: line-through;
+}
+
+.sudarshan  {
+    color: red;
+}
+
+ol {
+    color: brown ;
+}
+
+.abc {
+    color: gray;
+}
+
+a {
+    color: red;
+}
